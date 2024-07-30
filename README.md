@@ -1,4 +1,4 @@
-# Ferdy Fermadi
+### Ferdy Fermadi
 
 ## Soal 1
 
